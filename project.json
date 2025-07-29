@@ -1,0 +1,52 @@
+{
+  "blocks": [
+    {
+      "id": "wNFED0tJTICwjadw-LATZ",
+      "type": "Header",
+      "props": {
+        "titulo": "testando com gustavo",
+        "corDeFundo": "#1f2937",
+        "tituloStyle": {
+          "color": "#ffffff",
+          "fontSize": 3,
+          "fontFamily": "Default",
+          "bold": true,
+          "italic": false
+        },
+        "geometry": {
+          "width": 8,
+          "depth": 2,
+          "height": "plate"
+        }
+      }
+    },
+    {
+      "id": "ZZn4JYS1owjuprOM7hcdZ",
+      "type": "RichText",
+      "props": {
+        "titulo": "interessante<!---->",
+        "texto": "Descreva aqui os benefícios do seu produto, serviço ou ideia. Use este espaço para convencer seus visitantes.",
+        "tituloStyle": {
+          "color": "#1f2937",
+          "fontSize": 1.75,
+          "fontFamily": "Default",
+          "bold": true,
+          "italic": false
+        },
+        "textoStyle": {
+          "color": "#4b5563",
+          "fontSize": 1,
+          "fontFamily": "Default",
+          "bold": false,
+          "italic": false
+        },
+        "geometry": {
+          "width": 6,
+          "depth": 4,
+          "height": "brick"
+        }
+      }
+    }
+  ],
+  "template": "landing"
+}
